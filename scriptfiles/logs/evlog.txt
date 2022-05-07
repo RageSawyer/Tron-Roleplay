@@ -1,0 +1,3 @@
+Sawyer_Ford(0) Adli oyuncu 1 ID'li evi 1 karsiliginda satin aldi.
+Sawyer_Ford(0) Adli oyuncu 2 ID'li evi 1 karsiliginda satin aldi.
+Sawyer_Ford(0) Adli oyuncu 4 ID'li evi 5000 karsiliginda satin aldi.

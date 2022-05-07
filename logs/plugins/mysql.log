@@ -1,0 +1,289 @@
+[19:05:35] [WARNING] mysql_connect: no password specified
+[19:13:45] [WARNING] mysql_connect: no password specified
+[19:37:38] [WARNING] mysql_connect: no password specified
+[19:52:54] [WARNING] mysql_connect: no password specified
+[19:57:25] [WARNING] mysql_connect: no password specified
+[19:58:54] [WARNING] mysql_connect: no password specified
+[20:00:41] [WARNING] mysql_connect: no password specified (C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\gamemodes\sunucu.pwn:4796 -> C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\pawno\include\AFK.inc:73)
+[20:02:52] [WARNING] mysql_connect: no password specified (C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\gamemodes\sunucu.pwn:4796 -> C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\pawno\include\AFK.inc:73)
+[20:03:10] [WARNING] mysql_connect: no password specified (C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\gamemodes\sunucu.pwn:4796 -> C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\pawno\include\AFK.inc:73)
+[20:04:49] [WARNING] mysql_connect: no password specified (C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\gamemodes\sunucu.pwn:4796 -> C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\pawno\include\AFK.inc:73)
+[23:25:13] [WARNING] mysql_connect: no password specified (C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\gamemodes\sunucu.pwn:4796 -> C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\pawno\include\AFK.inc:73)
+[23:26:43] [WARNING] mysql_connect: no password specified (C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\gamemodes\sunucu.pwn:4796 -> C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\pawno\include\AFK.inc:73)
+[18:27:24] [WARNING] mysql_connect: no password specified (C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\gamemodes\sunucu.pwn:4796 -> C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\pawno\include\AFK.inc:73)
+[19:28:16] [WARNING] mysql_connect: no password specified
+[17:25:26] [WARNING] mysql_connect: no password specified
+[17:53:00] [WARNING] mysql_connect: no password specified
+[17:58:41] [WARNING] mysql_connect: no password specified
+[18:01:48] [WARNING] mysql_connect: no password specified
+[18:36:42] [WARNING] mysql_connect: no password specified
+[19:58:24] [ERROR] error #1054 while executing query "UPDATE `evler` SET `evOwner` = '2',`evFiyat` = '5000',`evKendiFiyati` = '5000', `Vergi` = '1', `VergiSure` = '0',`evPosX` = '2098.0358',`evPosY` = '-1754.0219',`evPosZ` = '13.3978', `evName`= 'Yok',`evInterior` = '0', `MaksMobilya` = '1000', `evKilit` = '0',`evPara` = '0',`evSatilik` = '0',`evKiralik` = '0',`evKiraUcret` = '0',`evKiralayan` = '-1', `Uyusturucu` = '0', `evKiyafet1` = '-1',`evKiyafet2` = '-1',`evKiyafet3` = '-1',`evKiyafet4` = '-1',`evKiyafet5` = '-1', `evWeapon1` = '0', `evWeapon2` = '0', `evWeapon3` = '0',`evWeapon4` = '0',`evWeapon5` = '0',`evWeapon6` = '0',`evWeapon7` = '0',`evWeapon8` = '0',`evWeapon9` = '0',`evWeapon10` = '0', `MobilyaYetki` = '-1', `evAmmo1` = '0', `evAmmo2` = '0', `evAmmo3` = '0',`evAmmo4` = '0',`evAmmo5` = '0',`evAmmo6` = '0',`evAmmo7` = '0',`evAmmo8` = '0',`evAmmo9` = '0',`evAmmo10` = '0' WHERE `evid` = '4'": Unknown column 'evInterior' in 'field list'
+[21:20:08] [ERROR] error #1054 while executing query "UPDATE `evler` SET `evOwner` = '2',`evFiyat` = '5000',`evKendiFiyati` = '5000', `Vergi` = '2', `VergiSure` = '0',`evPosX` = '2098.0358',`evPosY` = '-1754.0219',`evPosZ` = '13.3978', `evName`= 'Yok',`evInterior` = '0', `MaksMobilya` = '1000', `evKilit` = '0',`evPara` = '0',`evSatilik` = '0',`evKiralik` = '0',`evKiraUcret` = '0',`evKiralayan` = '-1', `Uyusturucu` = '0', `evKiyafet1` = '-1',`evKiyafet2` = '-1',`evKiyafet3` = '-1',`evKiyafet4` = '-1',`evKiyafet5` = '-1', `evWeapon1` = '0', `evWeapon2` = '0', `evWeapon3` = '0',`evWeapon4` = '0',`evWeapon5` = '0',`evWeapon6` = '0',`evWeapon7` = '0',`evWeapon8` = '0',`evWeapon9` = '0',`evWeapon10` = '0', `MobilyaYetki` = '-1', `evAmmo1` = '0', `evAmmo2` = '0', `evAmmo3` = '0',`evAmmo4` = '0',`evAmmo5` = '0',`evAmmo6` = '0',`evAmmo7` = '0',`evAmmo8` = '0',`evAmmo9` = '0',`evAmmo10` = '0' WHERE `evid` = '4'": Unknown column 'evInterior' in 'field list'
+[22:12:05] [WARNING] mysql_connect: no password specified
+[22:12:05] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:12:05] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:12:05] [ERROR] cache_get_value_name_int: field 'ID' not found
+[22:12:05] [ERROR] cache_get_value_name: field 'GatePos' not found
+[22:12:05] [ERROR] cache_get_value_name: field 'KapaliPos' not found
+[22:12:05] [ERROR] cache_get_value_name: field 'AcikPos' not found
+[22:15:09] [WARNING] mysql_connect: no password specified
+[22:15:09] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:15:09] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:15:09] [ERROR] cache_get_value_name_int: field 'ID' not found
+[22:15:09] [ERROR] cache_get_value_name: field 'GatePos' not found
+[22:15:09] [ERROR] cache_get_value_name: field 'KapaliPos' not found
+[22:15:09] [ERROR] cache_get_value_name: field 'AcikPos' not found
+[22:19:01] [WARNING] mysql_connect: no password specified
+[22:19:01] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:19:01] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:19:01] [ERROR] cache_get_value_name_int: field 'ID' not found
+[22:19:01] [ERROR] cache_get_value_name: field 'GatePos' not found
+[22:19:01] [ERROR] cache_get_value_name: field 'KapaliPos' not found
+[22:19:01] [ERROR] cache_get_value_name: field 'AcikPos' not found
+[22:19:08] [WARNING] mysql_connect: no password specified
+[22:19:08] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:19:08] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:19:08] [ERROR] cache_get_value_name_int: field 'ID' not found
+[22:19:08] [ERROR] cache_get_value_name: field 'GatePos' not found
+[22:19:08] [ERROR] cache_get_value_name: field 'KapaliPos' not found
+[22:19:08] [ERROR] cache_get_value_name: field 'AcikPos' not found
+[23:39:53] [ERROR] error #1054 while executing query "UPDATE `evler` SET `evOwner` = '2',`evFiyat` = '5000',`evKendiFiyati` = '5000', `Vergi` = '1', `VergiSure` = '0',`evPosX` = '2098.0400',`evPosY` = '-1754.0200',`evPosZ` = '13.3978', `evName`= 'Yok',`evInterior` = '0', `MaksMobilya` = '1000', `evKilit` = '0',`evPara` = '0',`evSatilik` = '0',`evKiralik` = '0',`evKiraUcret` = '0',`evKiralayan` = '-1', `Uyusturucu` = '0', `evKiyafet1` = '-1',`evKiyafet2` = '-1',`evKiyafet3` = '-1',`evKiyafet4` = '-1',`evKiyafet5` = '-1', `evWeapon1` = '0', `evWeapon2` = '0', `evWeapon3` = '0',`evWeapon4` = '0',`evWeapon5` = '0',`evWeapon6` = '0',`evWeapon7` = '0',`evWeapon8` = '0',`evWeapon9` = '0',`evWeapon10` = '0', `MobilyaYetki` = '-1', `evAmmo1` = '0', `evAmmo2` = '0', `evAmmo3` = '0',`evAmmo4` = '0',`evAmmo5` = '0',`evAmmo6` = '0',`evAmmo7` = '0',`evAmmo8` = '0',`evAmmo9` = '0',`evAmmo10` = '0' WHERE `evid` = '4'": Unknown column 'evInterior' in 'field list'
+[00:21:05] [WARNING] mysql_connect: no password specified
+[00:21:05] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[00:21:05] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[00:21:05] [ERROR] cache_get_value_name_int: field 'ID' not found
+[00:21:05] [ERROR] cache_get_value_name: field 'GatePos' not found
+[00:21:05] [ERROR] cache_get_value_name: field 'KapaliPos' not found
+[00:21:05] [ERROR] cache_get_value_name: field 'AcikPos' not found
+[14:11:49] [WARNING] mysql_connect: no password specified
+[14:11:49] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:11:49] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:11:50] [ERROR] cache_get_value_name_int: field 'ID' not found
+[14:11:50] [ERROR] cache_get_value_name: field 'GatePos' not found
+[14:11:50] [ERROR] cache_get_value_name: field 'KapaliPos' not found
+[14:11:50] [ERROR] cache_get_value_name: field 'AcikPos' not found
+[14:52:52] [WARNING] mysql_connect: no password specified
+[14:52:52] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[16:12:08] [WARNING] mysql_connect: no password specified
+[16:12:08] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[16:42:10] [WARNING] mysql_connect: no password specified
+[16:42:10] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[17:39:31] [WARNING] mysql_connect: no password specified
+[17:39:32] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[20:33:49] [WARNING] mysql_connect: no password specified
+[20:33:50] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:47:15] [WARNING] mysql_connect: no password specified
+[22:47:15] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:52:37] [WARNING] mysql_connect: no password specified
+[22:52:37] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[23:00:53] [WARNING] mysql_connect: no password specified
+[23:00:53] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[23:17:25] [WARNING] mysql_connect: no password specified
+[23:17:25] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[23:22:17] [WARNING] mysql_connect: no password specified
+[23:22:17] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[01:04:07] [WARNING] mysql_connect: no password specified
+[01:04:07] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[01:29:38] [WARNING] mysql_connect: no password specified
+[01:29:38] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[01:39:59] [WARNING] mysql_connect: no password specified
+[01:39:59] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[01:46:01] [WARNING] mysql_connect: no password specified
+[01:46:01] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[02:02:06] [WARNING] mysql_connect: no password specified
+[02:02:06] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[02:14:20] [WARNING] mysql_connect: no password specified
+[02:14:20] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[02:15:33] [WARNING] mysql_connect: no password specified
+[02:15:33] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[02:18:36] [WARNING] mysql_connect: no password specified
+[02:18:36] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[18:46:24] [WARNING] mysql_connect: no password specified
+[18:46:25] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[23:17:52] [WARNING] mysql_connect: no password specified
+[23:17:53] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[23:30:24] [WARNING] mysql_connect: no password specified
+[23:30:24] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[17:07:21] [WARNING] mysql_connect: no password specified
+[17:07:24] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[17:22:01] [WARNING] mysql_connect: no password specified
+[17:22:01] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[10:29:30] [WARNING] mysql_connect: no password specified
+[10:29:32] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[12:48:48] [WARNING] mysql_connect: no password specified
+[12:48:49] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:09:15] [WARNING] mysql_connect: no password specified
+[14:09:15] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[17:01:20] [WARNING] mysql_connect: no password specified
+[17:01:20] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[17:03:43] [WARNING] mysql_connect: no password specified
+[17:03:43] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[17:14:21] [WARNING] mysql_connect: no password specified
+[17:14:21] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[22:18:21] [WARNING] mysql_connect: no password specified
+[22:18:22] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[21:40:22] [WARNING] mysql_connect: no password specified
+[21:40:23] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[13:12:51] [WARNING] mysql_connect: no password specified
+[13:12:52] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[13:17:20] [WARNING] mysql_connect: no password specified
+[13:17:20] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[13:18:37] [WARNING] mysql_connect: no password specified
+[13:18:37] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[13:19:53] [WARNING] mysql_connect: no password specified
+[13:19:53] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:21:59] [WARNING] mysql_connect: no password specified
+[14:21:59] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:27:41] [WARNING] mysql_connect: no password specified
+[14:27:41] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:27:46] [WARNING] mysql_connect: no password specified
+[14:27:46] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:40:56] [WARNING] mysql_connect: no password specified
+[14:40:56] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:43:45] [WARNING] mysql_connect: no password specified
+[14:43:45] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:44:36] [WARNING] mysql_connect: no password specified
+[14:44:36] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:47:01] [WARNING] mysql_connect: no password specified
+[14:47:01] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:48:05] [WARNING] mysql_connect: no password specified
+[14:48:05] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:49:21] [WARNING] mysql_connect: no password specified
+[14:49:21] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:50:08] [WARNING] mysql_connect: no password specified
+[14:50:08] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:52:19] [WARNING] mysql_connect: no password specified
+[14:52:19] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:56:39] [WARNING] mysql_connect: no password specified
+[14:56:39] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[14:58:56] [WARNING] mysql_connect: no password specified
+[14:58:56] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[15:07:47] [WARNING] mysql_connect: no password specified
+[15:07:47] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[18:13:18] [WARNING] mysql_connect: no password specified
+[18:13:18] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[17:21:17] [WARNING] mysql_connect: no password specified
+[17:21:18] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[00:30:20] [WARNING] mysql_connect: no password specified
+[00:30:22] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[00:58:07] [WARNING] mysql_connect: no password specified
+[00:58:08] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[19:30:29] [WARNING] mysql_connect: no password specified
+[19:30:29] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[19:52:28] [WARNING] mysql_connect: no password specified
+[19:52:29] [ERROR] cache_get_value_name_int: field 'evInterior' not found
+[01:26:48] [WARNING] mysql_connect: no password specified
+[01:26:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sunucu''
+[01:26:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sunucu''
+[01:26:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sunucu''
+[01:26:48] [ERROR] CConnection::CConnection - establishing connection to MySQL database failed: #1049 'Unknown database 'sunucu''
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:26:48] [ERROR] cache_get_row_count: no active cache
+[01:26:48] [ERROR] cache_delete: invalid cache id '0'
+[01:29:31] [WARNING] mysql_connect: no password specified
+[01:29:31] [ERROR] cache_get_value_name_int: field 'evInterior' not found

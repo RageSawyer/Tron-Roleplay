@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aiml version="1.0" encoding="utf-8">
+
+<!-- Bu dosya sawyer tarafından sıfırdan kodlanmıştır tüm hakları saklıdır.   -->
+<!-- Kodlama: 22/5/2021 -->
+
+<category><pattern>SİKİŞELİM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>OROSPU</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>YARRAK</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>YARRAM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>GÖT</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>SİK</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>PİÇ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ANNESİZ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>SİKERİM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>SİKEYİM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ALLAH</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ALLAHINIZI</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ALLAHINI</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>OROSPU ÇOCUGU</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>GÖTÜNÜ SİKİYİM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>AMINA KOYİYİM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>AMK</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>OÇ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>SG</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ANNENİ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ANNENİ SİKİCEM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ANNENİ SİKERİM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>YARRAMI YE</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>FENA SİKKERİM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>TOTOŞ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>NONOŞ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>PATLICAN YARRAKLI</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ŞEREFSİZ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>PEZEVENG</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>PİÇ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>GÖTVEREN</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>SAKSOCU</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>SAKSO</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>SİKİŞ</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ŞEVİŞELİM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>SİKİMİN BAŞI</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>LAN</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+<category><pattern>ANANI YAĞLARIM</pattern>
+<template>Lutfen argo kelime kullanmayiniz.</template>
+</category>
+</aiml>

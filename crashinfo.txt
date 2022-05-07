@@ -1,0 +1,88 @@
+
+--------------------------
+SA-MP Server: 0.3.DL-R1
+
+Exception At Address: 0x0047D5B0 Module: (samp-server.exe)
+
+Registers:
+EAX: 0x00000000	EBX: 0x02BD1558	ECX: 0x0019F110	EDX: 0x00000001
+ESI: 0x04AC923C	EDI: 0x00000000	EBP: 0x0019F0B8	ESP: 0x0019EFD4
+EFLAGS: 0x00010246
+
+Stack:
++0000: 0x02BD1558   0x02BD1558   0x02A39568   0x00000000
++0010: 0x00000800   0x00000000   0x0019EFF1   0x004BE901
++0020: 0x0019F00C   0x00000000   0x0047D87E   0x02BD1558
++0030: 0x02A39568   0x02B40000   0x00000010   0x00000800
++0040: 0x00000000   0x0019F01D   0x7F000001   0x412080FF
++0050: 0x41C80000   0x80808080   0x00000001   0x0102FF00
++0060: 0x43A00000   0x43CD0000   0x00000000   0x00000000
++0070: 0x00000000   0x00000000   0xFFFF3F80   0x0004FFFF
++0080: 0x74697845   0x6F66206B   0x61632072   0x6172656D
++0090: 0x646F6D20   0x022D0D65   0x02320000   0x0019F090
++00A0: 0x77B75DCE   0x02E3D7B8   0x77B75DCE   0x00000008
++00B0: 0x00000000   0x00000401   0x004A2036   0x0019F0D0
++00C0: 0x004A2004   0x02320000   0x00000008   0x004A2036
++00D0: 0x00000032   0x0A81F370   0x02E3D7B8   0x00000401
++00E0: 0x00000000   0x0019F0A4   0x00000000   0x00000004
++00F0: 0x00000000   0x00406C52   0x04AC91E8   0x0019F0F8
++0100: 0x00000000   0x00000000   0x7FFFFFFF   0x02BD1558
++0110: 0x0053A79C   0x00000005   0x0019F10C   0x0019F128
++0120: 0x02D1F850   0x004B189B   0x00000000   0x00000000
++0130: 0x04A9C560   0x04A7C1C0   0x0019F13C   0x00000000
+
+--------------------------
+
+Loaded Modules:
+samp-server.exe	A: 0x00400000 - 0x0051F000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\samp-server.exe)
+ntdll.dll	A: 0x77B30000 - 0x77CD3000	(C:\Windows\SYSTEM32\ntdll.dll)
+KERNEL32.DLL	A: 0x77680000 - 0x77770000	(C:\Windows\System32\KERNEL32.DLL)
+KERNELBASE.dll	A: 0x77870000 - 0x77A84000	(C:\Windows\System32\KERNELBASE.dll)
+SHELL32.dll	A: 0x76D30000 - 0x772E3000	(C:\Windows\System32\SHELL32.dll)
+msvcp_win.dll	A: 0x77600000 - 0x7767B000	(C:\Windows\System32\msvcp_win.dll)
+ucrtbase.dll	A: 0x77360000 - 0x77480000	(C:\Windows\System32\ucrtbase.dll)
+USER32.dll	A: 0x76010000 - 0x761A6000	(C:\Windows\System32\USER32.dll)
+win32u.dll	A: 0x77770000 - 0x77788000	(C:\Windows\System32\win32u.dll)
+GDI32.dll	A: 0x75FE0000 - 0x76003000	(C:\Windows\System32\GDI32.dll)
+gdi32full.dll	A: 0x77790000 - 0x7786C000	(C:\Windows\System32\gdi32full.dll)
+WINMM.dll	A: 0x74020000 - 0x74048000	(C:\Windows\SYSTEM32\WINMM.dll)
+WSOCK32.dll	A: 0x740D0000 - 0x740D8000	(C:\Windows\SYSTEM32\WSOCK32.dll)
+msvcrt.dll	A: 0x76C70000 - 0x76D2F000	(C:\Windows\System32\msvcrt.dll)
+ws2_32.DLL	A: 0x76610000 - 0x76673000	(C:\Windows\System32\ws2_32.DLL)
+RPCRT4.dll	A: 0x75CB0000 - 0x75D70000	(C:\Windows\System32\RPCRT4.dll)
+IMM32.DLL	A: 0x76C40000 - 0x76C65000	(C:\Windows\System32\IMM32.DLL)
+MSVCR100.dll	A: 0x722C0000 - 0x7237F000	(C:\Windows\SYSTEM32\MSVCR100.dll)
+MSVCP100.dll	A: 0x72380000 - 0x723E9000	(C:\Windows\SYSTEM32\MSVCP100.dll)
+mysql.DLL	A: 0x72270000 - 0x722BE000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\plugins\mysql.DLL)
+MSVCP140.dll	A: 0x74FD0000 - 0x7503D000	(C:\Windows\SYSTEM32\MSVCP140.dll)
+log-core.dll	A: 0x72250000 - 0x7226A000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\log-core.dll)
+libmariadb.dll	A: 0x72180000 - 0x7224D000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\libmariadb.dll)
+VCRUNTIME140.dll	A: 0x74FB0000 - 0x74FC4000	(C:\Windows\SYSTEM32\VCRUNTIME140.dll)
+SHLWAPI.dll	A: 0x765C0000 - 0x76605000	(C:\Windows\System32\SHLWAPI.dll)
+CRYPT32.dll	A: 0x774F0000 - 0x775F1000	(C:\Windows\System32\CRYPT32.dll)
+Secur32.dll	A: 0x74F60000 - 0x74F6A000	(C:\Windows\SYSTEM32\Secur32.dll)
+ADVAPI32.dll	A: 0x75F50000 - 0x75FCA000	(C:\Windows\System32\ADVAPI32.dll)
+sechost.dll	A: 0x762A0000 - 0x76315000	(C:\Windows\System32\sechost.dll)
+SSPICLI.DLL	A: 0x74F30000 - 0x74F51000	(C:\Windows\SYSTEM32\SSPICLI.DLL)
+CRYPTBASE.DLL	A: 0x74790000 - 0x7479A000	(C:\Windows\SYSTEM32\CRYPTBASE.DLL)
+kernel.appcore.dll	A: 0x74780000 - 0x7478F000	(C:\Windows\SYSTEM32\kernel.appcore.dll)
+napinsp.dll	A: 0x73660000 - 0x73671000	(C:\Windows\system32\napinsp.dll)
+pnrpnsp.dll	A: 0x73640000 - 0x73656000	(C:\Windows\system32\pnrpnsp.dll)
+wshbth.dll	A: 0x740C0000 - 0x740D0000	(C:\Windows\system32\wshbth.dll)
+NLAapi.dll	A: 0x71BE0000 - 0x71BF6000	(C:\Windows\system32\NLAapi.dll)
+IPHLPAPI.DLL	A: 0x74680000 - 0x746B2000	(C:\Windows\SYSTEM32\IPHLPAPI.DLL)
+mswsock.dll	A: 0x74ED0000 - 0x74F22000	(C:\Windows\System32\mswsock.dll)
+DNSAPI.dll	A: 0x74510000 - 0x745A2000	(C:\Windows\SYSTEM32\DNSAPI.dll)
+NSI.dll	A: 0x774E0000 - 0x774E7000	(C:\Windows\System32\NSI.dll)
+winrnr.dll	A: 0x73630000 - 0x7363E000	(C:\Windows\System32\winrnr.dll)
+rasadhlp.dll	A: 0x74010000 - 0x74018000	(C:\Windows\System32\rasadhlp.dll)
+streamer.DLL	A: 0x72110000 - 0x72172000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\plugins\streamer.DLL)
+sscanf.DLL	A: 0x10000000 - 0x1000F000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\plugins\sscanf.DLL)
+FCNPC-DL.DLL	A: 0x5B1C0000 - 0x5B464000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\plugins\FCNPC-DL.DLL)
+SKY.DLL	A: 0x720D0000 - 0x7210B000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\plugins\SKY.DLL)
+PSAPI.DLL	A: 0x772F0000 - 0x772F6000	(C:\Windows\System32\PSAPI.DLL)
+pawn-memory.DLL	A: 0x73EB0000 - 0x73EBA000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\plugins\pawn-memory.DLL)
+pawncmd.DLL	A: 0x72040000 - 0x720CE000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\plugins\pawncmd.DLL)
+pawnraknet.DLL	A: 0x71FD0000 - 0x7203B000	(C:\Users\emrek\OneDrive\Masaüstü\Tron Roleplay\plugins\pawnraknet.DLL)
+bcrypt.dll	A: 0x76230000 - 0x76249000	(C:\Windows\System32\bcrypt.dll)
+bcryptPrimitives.dll	A: 0x75E00000 - 0x75E5D000	(C:\Windows\System32\bcryptPrimitives.dll)
